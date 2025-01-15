@@ -1,0 +1,70 @@
+:root{
+  --A1:#ffffff;
+  --A2:#e9d1bf;
+  --A3:#ceb69c;
+  --A4:#8d6969;
+  --B1:#c3b9c0;
+  --B2:#7F7B8E;
+  --B3:#666666;
+  --B4:#000000;
+  --C1:#d3e1cb;
+  --C2:#99A98F;
+  --C3:#436850;
+  --C4:#1A4D2E;
+  --D1:#D1E9F6;
+  --D2:#B3C8CF;
+  --D3:#6482AD;
+  --D4:#134B70;
+  --E1:#FFE7E7;
+  --E2:#CAA6A6;
+  --E3:#B47B84;
+  --E4:#481E14;
+  --F1:#f0ecbf;
+  --F2:#fae385;
+  --F3:#FF9A00;
+  --F4:#DC5F00;
+  --G1:#e8e4a9;
+  --G2:#ebe594;
+  --G3:#dace1c;
+  --G4:#ebde2f;
+  --H1:#fdf4f8;
+  --H2:#ed99c3;
+  --H3:#A0153E;
+  --H4:#C40C0C;
+  --I1:#EBD3F8;
+  --I2:#C8A1E0;
+  --I3:#AD49E1;
+  --I4:#7A1CAC;
+}
+h1,h2,h3,h4,h5,h6{
+    color: var(--B4);
+}
+p{
+color: var(--B4)}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: var(--A1);
+}
+header {
+    background: var(--I3);
+    color: var(--A1);
+    padding: 1rem 0;
+    text-align: center;
+}
+footer {
+    background: var(--I4);
+    color: var(--A1);;
+    text-align: center;
+    padding: 0.5rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 1rem;
+}
