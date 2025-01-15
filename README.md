@@ -11,21 +11,21 @@ app.py
 
 static
 
-css/
+-css/
 
- styles.css
+--styles.css
 
- js/
+-js/
 
- images/
+-images/
 
 templates/
 
- base.html
+-base.html
 
- index.html
+-index.html
 
- dynamic.html
+-dynamic.html
 
 requirements.txt
 
