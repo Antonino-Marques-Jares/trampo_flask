@@ -49,13 +49,13 @@ body {
     color: var(--A1);
 }
 header {
-    background: var(--I3);
+    background: var(--F3);
     color: var(--A1);
     padding: 1rem 0;
     text-align: center;
 }
 footer {
-    background: var(--I4);
+    background: var(--F4);
     color: var(--A1);;
     text-align: center;
     padding: 0.5rem 0;
